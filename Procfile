@@ -1,1 +1,1 @@
-web: gunicorn Django-Movie-App.wsgi
+web: gunicorn cp_django_barebones.wsgi
